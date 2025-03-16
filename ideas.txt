@@ -1,0 +1,5 @@
+Add char to pixel in witch inside the pixel the closest value will be replaced
+by the ascii values, for now it fells the modify of the pixel values by 3 chars
+to be too much and can be easily seen in images with too low of resolution....
+
+Other alternative would be to scan the whole image for pixels closest the the char value be the r or g or b of a single pixel.... and replace it
