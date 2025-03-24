@@ -1,0 +1,32 @@
+##[pylyzer] failed /home/vitor/git/imageEncrypt/ImageHide/hideInfo.py 1742786877 1728
+.np = pyimport "__init__.pyi"
+.__init__.pyi = pyimport "__init__.pyi"
+
+.cv2 = pyimport "__init__.pyi"
+
+
+.Image: Never
+
+.time = pyimport "time"
+
+.random = pyimport "random"
+
+.img: Never
+.pix: Never
+.___v_global_91114: Never
+.width: Never
+.height: Never
+
+.message: {"The I took the one less traveled by,And that has made all the difference."}
+.ascii_values: global::List!(Nat, _: Nat)
+.new_img: Never
+.index: {0}
+.placing_of_chars: global::Dict!({Nat: global::Tuple([Int, Int])})
+.pointsofnoise: {100}
+.writer_image: |Type_80027 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, ?O) -> ?Type_80105}), Type_80105: Type, O: Type|(ascii_values: Type_80027, new_img: global::Dict!({Never: global::List!(Type_80105, 3)}), message: Obj) -> NoneType
+.writer_noise: (ascii_values: Obj, new_im: global::Dict!({Never: global::List!(Int, 3)}), pointsofnoise: {_: Int}) -> NoneType
+
+
+
+.modified_image: Never
+
